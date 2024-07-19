@@ -1,13 +1,13 @@
 {
-  "name": "TORUBOT DIGI",
-  "version": "4",
+  "name": "KRIS-PEDIA-V2",
+  "version": "15.0.0",
   "description": "",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
    },
-  "author": "Athaya WhatsApp",
+  "author": "KirBotz WhatsApp",
   "license": "ISC",
   "dependencies": {
   "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
